@@ -1,4 +1,4 @@
-### Hi 👋, I'm Gözde Nergiz
+## Hi 👋, I'm Gözde Nergiz
 
 ### A passionate backend developer who loves to code
 
