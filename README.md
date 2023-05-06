@@ -4,9 +4,9 @@
 
 
 - 🔭 I’m currently working on <b>Backend Technologies</b>
-- 🌱 I’m currently learning <b>Java</b> and <b>React</b>.
+- 🌱 I’m currently learning <b>Java</b> and <b>React</b>
 - 🔭 I’m currently working on <b>Patika.dev</b>
-- 💬 Ask me about <b>Java, HTML, CSS, JavaScript, Matlab, C, C# and Python</b>.
+- 💬 Ask me about <b>Java, HTML, CSS, JavaScript, Matlab, C, C# and Python</b>
 - 📫 How to reach me: gozdenergiz01@gmail.com
 
 ### Connect with me:
