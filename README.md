@@ -20,4 +20,4 @@
 [![bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)]([link](https://www.w3schools.com/bootstrap/bootstrap_ver.asp))
 [![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)]([link](https://www.w3schools.com/js/default.asp))
 [![java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)]([link](https://www.w3schools.com/java/default.asp))
-[![matlab](https://img.shields.io/badge/Matlab-E34F26?style=for-the-badge&logo=matlab&logoColor=white)]([link]())
+[![matlab](https://img.shields.io/badge/Matlab-E34F26?style=for-the-badge&logo=matlab&logoColor=white)]([link](https://www.mathworks.com/products/matlab.html))
