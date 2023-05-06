@@ -44,7 +44,4 @@
 [![elasticsearch](https://img.shields.io/badge/Elastic_Search-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)]([link](https://www.elastic.co/))
 
 ### Github Stats:
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gozdenergiz&layout=compact)
-
 ![Github stats 1](https://github-readme-stats.vercel.app/api?username=gozdenergiz&show_icons=true&theme=gradient)
