@@ -8,3 +8,5 @@
 - 🔭 I’m currently working on Patika.dev
 - 💬 Ask me about Java, HTML, CSS, JavaScript, Matlab, C, C# and Python.
 - 📫 How to reach me: gozdenergiz01@gmail.com
+
+### 📩 Connect with me:
