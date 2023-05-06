@@ -1,5 +1,4 @@
-### Hi there 👋
-[![linkedin](https://img.shields.io/badge/Linkedin-000000?style=for-the-badge&logo=Linkedin&logoColor=white)]([[profilinizin linki](https://www.linkedin.com/in/gözde-nergiz-955762162/)]
+### Hi 👋, I'm Gözde Neriz
 
 <!--
 **gozdenergiz/gozdenergiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
