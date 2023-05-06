@@ -1,4 +1,4 @@
-# Hi 👋, I'm Gözde Nergiz
+#0969DA Hi 👋, I'm Gözde Nergiz
 
 ## A passionate backend developer who loves to code
 
