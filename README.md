@@ -45,6 +45,6 @@
 
 ### Github Stats:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gozdenergiz&layout=compact)](https://github.com/gozdenergiz/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gozdenergiz&layout=compact)
 
 ![Github stats 1](https://github-readme-stats.vercel.app/api?username=gozdenergiz&show_icons=true&theme=gradient)
