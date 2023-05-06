@@ -1,7 +1,6 @@
-### Hi 👋, I'm Gözde Neriz
+### Hi 👋, I'm Gözde Nergiz
 
-<!--
-**gozdenergiz/gozdenergiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A passionate backend developer who loves to code
 
 Here are some ideas to get you started:
 
