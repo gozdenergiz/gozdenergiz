@@ -19,4 +19,5 @@
 [![css3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)]([link](https://www.w3schools.com/css/default.asp))
 [![bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)]([link](https://www.w3schools.com/bootstrap/bootstrap_ver.asp))
 [![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)]([link](https://www.w3schools.com/js/default.asp))
-[![javas](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)]([link](https://www.w3schools.com/java/default.asp))
+[![java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)]([link](https://www.w3schools.com/java/default.asp))
+[![matlab](https://img.shields.io/badge/Matlab-E34F26?style=for-the-badge&logo=matlab&logoColor=white)]([link]())
