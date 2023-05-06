@@ -1,4 +1,4 @@
-<center> # Hi 👋, I'm Gözde Nergiz </center>
+# Hi 👋, I'm Gözde Nergiz </center>
 
 ## A passionate backend developer who loves to code
 
