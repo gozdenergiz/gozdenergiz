@@ -29,3 +29,4 @@
 [![microsoftsqlserver](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)]([link](https://www.microsoft.com/en-us/sql-server))
 
 [![netbeans](https://img.shields.io/badge/apache%20netbeans-1B6AC6?style=for-the-badge&logo=apache%20netbeans%20IDE&logoColor=white)]([link](https://netbeans.apache.org/))
+[![eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)]([link](https://www.eclipse.org/))
