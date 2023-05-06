@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on Backend Technologies
 - 🌱 I’m currently learning Java and React.
-- 🔭 I’m currently working on Patika.dev
+- 🔭 I’m currently working on ### Patika.dev 
 - 💬 Ask me about Java, HTML, CSS, JavaScript, Matlab, C, C# and Python.
 - 📫 How to reach me: gozdenergiz01@gmail.com
 
