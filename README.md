@@ -2,7 +2,6 @@
 
 ## A passionate backend developer who loves to code
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Backend Technologies
 - 🌱 I’m currently learning Java and React.
