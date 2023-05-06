@@ -1,6 +1,6 @@
 # Hi 👋, I'm Gözde Nergiz
 
-### A passionate backend developer who loves to code
+## A passionate backend developer who loves to code
 
 Here are some ideas to get you started:
 
