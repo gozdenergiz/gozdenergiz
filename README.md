@@ -21,3 +21,6 @@
 [![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)]([link](https://www.w3schools.com/js/default.asp))
 [![java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)]([link](https://www.w3schools.com/java/default.asp))
 [![matlab](https://img.shields.io/badge/Matlab-E34F26?style=for-the-badge&logo=matlab&logoColor=white)]([link](https://www.mathworks.com/products/matlab.html))
+[![c](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)]([link](https://www.w3schools.com/c/index.php))
+[![c#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)]([link](https://www.w3schools.com/cs/index.php))
+[![python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)]([link](https://www.w3schools.com/python/default.asp))
