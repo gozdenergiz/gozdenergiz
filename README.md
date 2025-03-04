@@ -1,6 +1,6 @@
 # Hi 👋, I'm Gözde Nergiz </center>
 
-## A passionate backend developer who loves to code
+## A passionate big data developer who loves to code
 
 
 - 🔭 I’m currently working on <b>Big Data</b>
